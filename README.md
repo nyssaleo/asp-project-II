@@ -64,7 +64,7 @@ scikit-learn
 ### Installation
 
 ```bash
-git clone https://github.com/ankit-prajapati/stochastic-process-projects.git
+git clone https://github.com/nyssaleo/asp-project-II.git
 cd stochastic-process-projects
 pip install -r requirements.txt
 ```
